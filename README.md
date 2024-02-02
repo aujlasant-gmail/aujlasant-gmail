@@ -1,9 +1,13 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👋 Hi, I’m @aujlasant-gmail
+</br>
 - 👀 I’m interested in ...front-end development
+</br>
 - 🌱 I’m currently learning ... React
+</br>
 - 💞️ I’m looking to collaborate on ... front-end  team project
+</br>
 - 📫 How to reach me ... aujlsant0192@gmail.com
 
 <!---
